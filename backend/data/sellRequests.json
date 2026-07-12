@@ -1,0 +1,22 @@
+{
+  "requests": [
+    {
+      "id": "27fd49c4-c62d-4f01-a42b-017e0da38d87",
+      "title": "大学英语",
+      "author": "陈墨涵",
+      "price": 12,
+      "originalPrice": 33,
+      "condition": "7成新",
+      "description": "往日时光总是",
+      "isbn": "强强强强",
+      "images": [
+        "/uploads/1783839629563-108035265.png"
+      ],
+      "contactName": "陈墨涵",
+      "contactPhone": "13293864576",
+      "contactWechat": "11111",
+      "status": "pending",
+      "createdAt": "2026-07-12T07:00:29.568Z"
+    }
+  ]
+}

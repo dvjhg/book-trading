@@ -1,0 +1,29 @@
+{
+  "orders": [
+    {
+      "id": "6958dace-25cc-4a65-8d4a-5bad4f9a7ee9",
+      "items": [
+        {
+          "bookId": "book-001",
+          "title": "高等数学（上册）",
+          "price": 15,
+          "qty": 2
+        },
+        {
+          "bookId": "book-002",
+          "title": "大学英语综合教程1",
+          "price": 12,
+          "qty": 5
+        }
+      ],
+      "totalAmount": 90,
+      "address": "水水水水水",
+      "expectedTime": "2026-07-13T02:00",
+      "contactName": "陈墨涵",
+      "contactPhone": "13293864576",
+      "note": "水水水水水水",
+      "status": "pending",
+      "createdAt": "2026-07-12T06:59:32.526Z"
+    }
+  ]
+}

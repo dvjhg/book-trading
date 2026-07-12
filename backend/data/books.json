@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": "book-002",
+      "title": "大学英语综合教程1",
+      "author": "李荫华",
+      "price": 12,
+      "originalPrice": 38,
+      "condition": "99新",
+      "description": "几乎全新，只翻过几次",
+      "isbn": "9787544652060",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop",
+      "stock": 2,
+      "seller": "王同学",
+      "createdAt": "2026-07-05T14:30:00.000Z"
+    },
+    {
+      "id": "book-003",
+      "title": "C程序设计语言",
+      "author": "Brian W. Kernighan",
+      "price": 25,
+      "originalPrice": 55,
+      "condition": "8成新",
+      "description": "经典教材，有详细笔记和代码标注",
+      "isbn": "9787111128069",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=300&h=400&fit=crop",
+      "stock": 1,
+      "seller": "李同学",
+      "createdAt": "2026-07-08T09:15:00.000Z"
+    },
+    {
+      "id": "book-004",
+      "title": "线性代数",
+      "author": "居余马",
+      "price": 18,
+      "originalPrice": 42,
+      "condition": "全新",
+      "description": "未拆封，买多了",
+      "isbn": "9787302038596",
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=300&h=400&fit=crop",
+      "stock": 5,
+      "seller": "赵同学",
+      "createdAt": "2026-07-10T16:00:00.000Z"
+    },
+    {
+      "id": "book-005",
+      "title": "心理学与生活",
+      "author": "Richard Gerrig",
+      "price": 30,
+      "originalPrice": 88,
+      "condition": "9成新",
+      "description": "心理学入门经典，书角轻微磨损",
+      "isbn": "9787115111302",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=400&fit=crop",
+      "stock": 2,
+      "seller": "陈同学",
+      "createdAt": "2026-07-11T11:20:00.000Z"
+    },
+    {
+      "id": "00a28660-a617-4764-80b3-a3e9dc659384",
+      "title": "而我是个法国",
+      "author": "为各位",
+      "price": 112,
+      "originalPrice": 0,
+      "condition": "9成新",
+      "description": "分为五个认为",
+      "isbn": "强强强强",
+      "image": "/uploads/1783840333951-746980216.png",
+      "stock": 2,
+      "seller": "管理员",
+      "createdAt": "2026-07-12T07:12:13.958Z"
+    }
+  ]
+}
